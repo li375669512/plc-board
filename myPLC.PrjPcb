@@ -445,6 +445,45 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DEFAOJSK
 
+[ProjectVariant1]
+UniqueID=346F75B0-D1A7-426F-8800-79FBF0D0DF01
+Description=Variant of myPLC
+AllowFabrication=0
+ParameterCount=1
+VariationCount=1
+Variation1=Designator=J1|UniqueId=\WQYTOHCB|Kind=0|AlternatePart=DS1034-09FUNSi44
+ParamVariation1=ParameterName=Comment|VariantValue=DS1034-09FUNSi44
+ParamDesignator1=J1
+ParamVariation2=ParameterName=DatasheetDocument|VariantValue= 
+ParamDesignator2=J1
+ParamVariation3=ParameterName=Description|VariantValue= 
+ParamDesignator3=J1
+ParamVariation4=ParameterName=LatestRevisionDate|VariantValue= 
+ParamDesignator4=J1
+ParamVariation5=ParameterName=LatestRevisionNote|VariantValue= 
+ParamDesignator5=J1
+ParamVariation6=ParameterName=Orientation|VariantValue= 
+ParamDesignator6=J1
+ParamVariation7=ParameterName=PackageDocument|VariantValue= 
+ParamDesignator7=J1
+ParamVariation8=ParameterName=PackageReference|VariantValue= 
+ParamDesignator8=J1
+ParamVariation9=ParameterName=Positions|VariantValue= 
+ParamDesignator9=J1
+ParamVariation10=ParameterName=Published|VariantValue= 
+ParamDesignator10=J1
+ParamVariation11=ParameterName=Publisher|VariantValue= 
+ParamDesignator11=J1
+ParamVariationCount=11
+
+[Parameter2_1]
+Name=DS1034-09FUNSi44
+Value=
+
+[SearchPath1]
+Path=D:\Program Files (x86)\AD9\Library\*.*
+IncludeSubFolders=1
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
