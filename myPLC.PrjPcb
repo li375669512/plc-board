@@ -445,6 +445,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DEFAOJSK
 
+[Document25]
+DocumentPath=power.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NHHKUPZW
+
 [ProjectVariant1]
 UniqueID=346F75B0-D1A7-426F-8800-79FBF0D0DF01
 Description=Variant of myPLC
