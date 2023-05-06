@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=LED24-1
+Removed Pin From Net: NetName=GND Pin=LED26-1
+Removed Pin From Net: NetName=24V Pin=R5-2
+Removed Pin From Net: NetName=12V Pin=R88-2
+Removed Member From Class: ClassName=U_power Member=LED24
+Removed Member From Class: ClassName=U_power Member=LED26
+Removed Member From Class: ClassName=U_power Member=R5
+Removed Member From Class: ClassName=U_power Member=R88

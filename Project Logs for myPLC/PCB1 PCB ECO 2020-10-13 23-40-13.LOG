@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=R31 Old Footprint=R0805 New Footprint=R0603
+Added Component: Designator=R16(R0603)
+Add component (AddParameter): Name = "Type"; Value = "ÌùÆ¬µç×è"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.1K, 1%"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=U_mcu Member=Component R16 5.1K,1%

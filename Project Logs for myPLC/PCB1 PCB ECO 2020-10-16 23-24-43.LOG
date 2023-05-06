@@ -1,0 +1,7 @@
+Change Component Comment : Designator=BAT1 Old Comment=µç³Ø New Comment=1.25T-1-2A
+Added Component: Designator=P18(CONN-TH_2P-P3.81_WJ15EDGRC-3.81-2P)
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Added Pin To Net: NetName=24V Pin=P18-1
+Added Pin To Net: NetName=GND Pin=P18-2
+Change Class Name : Old Net Name=AOUT1 New Net Name=subDACOut
+Added Member To Class: ClassName=TopView Member=Component P18 WJ15EDGRC-3.81-2P

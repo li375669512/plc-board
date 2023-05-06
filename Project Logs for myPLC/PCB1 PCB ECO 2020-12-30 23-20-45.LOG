@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=12V Pin=P19-1
+Removed Pin From Net: NetName=GND Pin=P19-2
+Removed Pin From Net: NetName=LTE_RX Pin=P19-3
+Removed Pin From Net: NetName=LTE_CTS Pin=P19-5
+Removed Pin From Net: NetName=LTE_RTS Pin=P19-6
+Removed Pin From Net: NetName=LTE_RST Pin=P19-7
+Added Pin To Net: NetName=LTE_RST Pin=P19-1
+Added Pin To Net: NetName=LTE_RTS Pin=P19-2
+Added Pin To Net: NetName=LTE_CTS Pin=P19-3
+Added Pin To Net: NetName=LTE_RX Pin=P19-5
+Added Pin To Net: NetName=GND Pin=P19-6
+Added Pin To Net: NetName=12V Pin=P19-7

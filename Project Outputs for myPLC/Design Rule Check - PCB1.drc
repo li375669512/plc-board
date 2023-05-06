@@ -1,0 +1,117 @@
+Protel Design System Design Rule Check
+PCB File : G:\5-SelfPro\000-DO\PLC\PCB\PCB1.PcbDoc
+Date     : 2023/5/6
+Time     : 21:23:39
+
+Processing Rule : Clearance Constraint (Gap=0.18mm) (InComponent('U9')),(IsPad)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (InComponent('U2') or InComponent('U9')),(IsPad)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (InComponent('U16')),(IsPad)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (InComponent('U16')),(IsTrack)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (InComponent('U16')),(IsRegion)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (InComponent('BAT1')),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.2mm) (Max=5mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (Disabled)(All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (Disabled)(IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Room DO3 (Bounding Region = (118.745mm, 59.817mm, 130.175mm, 82.169mm) (Disabled)(InComponentClass('DO3'))
+Rule Violations :0
+
+Processing Rule : Room DO4 (Bounding Region = (130.302mm, 59.817mm, 141.732mm, 82.169mm) (Disabled)(InComponentClass('DO4'))
+Rule Violations :0
+
+Processing Rule : Room DO2 (Bounding Region = (107.188mm, 59.817mm, 118.618mm, 82.169mm) (Disabled)(InComponentClass('DO2'))
+Rule Violations :0
+
+Processing Rule : Room DIN8 (Bounding Region = (111.903mm, 146.558mm, 122.555mm, 160.655mm) (Disabled)(InComponentClass('DIN8'))
+Rule Violations :0
+
+Processing Rule : Room DO1 (Bounding Region = (95.631mm, 59.817mm, 107.061mm, 82.169mm) (Disabled)(InComponentClass('DO1'))
+Rule Violations :0
+
+Processing Rule : Room DO7 (Bounding Region = (164.973mm, 59.817mm, 176.403mm, 82.169mm) (Disabled)(InComponentClass('DO7'))
+Rule Violations :0
+
+Processing Rule : Room DO8 (Bounding Region = (176.53mm, 59.817mm, 187.96mm, 82.169mm) (Disabled)(InComponentClass('DO8'))
+Rule Violations :0
+
+Processing Rule : Room U_adcIn (Bounding Region = (181.102mm, 122.315mm, 216.154mm, 144.921mm) (Disabled)(InComponentClass('U_adcIn'))
+Rule Violations :0
+
+Processing Rule : Room DO5 (Bounding Region = (141.859mm, 59.817mm, 153.289mm, 82.169mm) (Disabled)(InComponentClass('DO5'))
+Rule Violations :0
+
+Processing Rule : Room DO6 (Bounding Region = (153.416mm, 59.817mm, 164.846mm, 82.169mm) (Disabled)(InComponentClass('DO6'))
+Rule Violations :0
+
+Processing Rule : Room DIN3 (Bounding Region = (165.243mm, 146.558mm, 175.895mm, 160.528mm) (Disabled)(InComponentClass('DIN3'))
+Rule Violations :0
+
+Processing Rule : Room DIN2 (Bounding Region = (175.911mm, 146.558mm, 186.563mm, 160.528mm) (Disabled)(InComponentClass('DIN2'))
+Rule Violations :0
+
+Processing Rule : Room DIN1 (Bounding Region = (186.579mm, 146.558mm, 197.231mm, 160.528mm) (Disabled)(InComponentClass('DIN1'))
+Rule Violations :0
+
+Processing Rule : Room DIN4 (Bounding Region = (154.575mm, 146.558mm, 165.227mm, 160.528mm) (Disabled)(InComponentClass('DIN4'))
+Rule Violations :0
+
+Processing Rule : Room DIN7 (Bounding Region = (122.571mm, 146.558mm, 133.223mm, 160.528mm) (Disabled)(InComponentClass('DIN7'))
+Rule Violations :0
+
+Processing Rule : Room DIN6 (Bounding Region = (133.239mm, 146.558mm, 143.891mm, 160.528mm) (Disabled)(InComponentClass('DIN6'))
+Rule Violations :0
+
+Processing Rule : Room DIN5 (Bounding Region = (143.907mm, 146.558mm, 154.559mm, 160.528mm) (Disabled)(InComponentClass('DIN5'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:02

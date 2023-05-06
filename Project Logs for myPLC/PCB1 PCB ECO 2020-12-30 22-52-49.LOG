@@ -1,0 +1,12 @@
+Added Component: Designator=R4(R0603)
+Add component (AddParameter): Name = "Type"; Value = "ÌùÆ¬µç×è"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=LTE_RST Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=LTE_CTS Pin=P19-5
+Added Pin To Net: NetName=LTE_CTS Pin=U2-59
+Added Net: Name=LTE_CTS
+Added Pin To Net: NetName=LTE_RTS Pin=P19-6
+Added Pin To Net: NetName=LTE_RTS Pin=U2-58
+Added Net: Name=LTE_RTS
+Added Member To Class: ClassName=U_mcu Member=Component R4 3.3K,1%

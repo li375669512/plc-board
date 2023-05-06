@@ -1,0 +1,74 @@
+Removed Pin From Net: NetName=3V3 Pin=C49-1
+Removed Pin From Net: NetName=GND Pin=C49-2
+Removed Pin From Net: NetName=3V3 Pin=C50-1
+Removed Pin From Net: NetName=GND Pin=C50-2
+Removed Pin From Net: NetName=EARTH_GND Pin=C52-1
+Removed Pin From Net: NetName=EARTH_GND Pin=GDT1-2
+Removed Pin From Net: NetName=USART1_TX Pin=R56-1
+Removed Pin From Net: NetName=3V3 Pin=R56-2
+Removed Pin From Net: NetName=USART1_TX Pin=R57-1
+Removed Pin From Net: NetName=USART1_RX Pin=R58-1
+Removed Pin From Net: NetName=EARTH_GND Pin=R59-2
+Removed Pin From Net: NetName=3V3 Pin=U14-1
+Removed Pin From Net: NetName=GND Pin=U14-2
+Removed Member From Class: ClassName=U_link Member=C49
+Removed Member From Class: ClassName=U_link Member=C50
+Removed Member From Class: ClassName=U_link Member=C51
+Removed Member From Class: ClassName=U_link Member=C52
+Removed Member From Class: ClassName=U_link Member=D23
+Removed Member From Class: ClassName=U_link Member=D24
+Removed Member From Class: ClassName=U_link Member=D25
+Removed Member From Class: ClassName=U_link Member=GDT1
+Removed Member From Class: ClassName=U_link Member=P2
+Removed Member From Class: ClassName=TopView Member=P10
+Removed Member From Class: ClassName=U_link Member=R53
+Removed Member From Class: ClassName=U_link Member=R54
+Removed Member From Class: ClassName=U_link Member=R55
+Removed Member From Class: ClassName=U_link Member=R56
+Removed Member From Class: ClassName=U_link Member=R57
+Removed Member From Class: ClassName=U_link Member=R58
+Removed Member From Class: ClassName=U_link Member=R59
+Removed Member From Class: ClassName=U_link Member=SW2
+Removed Member From Class: ClassName=U_link Member=T1
+Removed Member From Class: ClassName=U_link Member=U14
+Change Component Comment : Designator=R29 Old Comment=3K,1% New Comment=20K,1%
+Change Component Comment : Designator=R30 Old Comment=3K,1% New Comment=20K,1%
+Change Component Comment : Designator=R41 Old Comment=3K,1% New Comment=20K,1%
+Change Component Comment : Designator=R88 Old Comment=10K,1% New Comment=20K,1%
+Change Component Comment : Designator=R5 Old Comment=10K,1% New Comment=47K,1%
+Change Component Comment : Designator=R89 Old Comment=10K,1% New Comment=47K,1%
+Added Component: Designator=R14(R0603)
+Add component (AddParameter): Name = "Type"; Value = "ÌùÆ¬µç×è"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3K, 10%"; VariantName = "[No Variations]"
+Added Component: Designator=R31(R0805)
+Add component (AddParameter): Name = "Type"; Value = "ÌùÆ¬µç×è"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3K, 10%"; VariantName = "[No Variations]"
+Added Component: Designator=R32(R0603)
+Add component (AddParameter): Name = "Type"; Value = "ÌùÆ¬µç×è"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3K, 10%"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetL2_2 Pin=R14-1
+Added Pin To Net: NetName=ISO_DAC_GND Pin=R14-2
+Added Pin To Net: NetName=ISO_DAC_GND Pin=R31-1
+Added Pin To Net: NetName=NetL3_2 Pin=R31-2
+Added Pin To Net: NetName=ISO_DI_GND Pin=R32-1
+Added Pin To Net: NetName=+ISO_DI_12V Pin=R32-2
+Change Class Name : Old Net Name=AOUT1 New Net Name=subDACOut
+Added Member To Class: ClassName=U_dacOut Member=Component R14 2K,1%
+Added Member To Class: ClassName=U_dacOut Member=Component R31 2K,1%
+Added Member To Class: ClassName=U_dIn Member=Component R32 2K,1%
+Added Room: Name=A1
+Added Room: Name=A2
+Added Room: Name=A3
+Added Room: Name=A4
+Added Room: Name=A5
+Added Room: Name=A6
+Added Room: Name=A7
+Added Room: Name=A8
+Added Room: Name=subDACOut
+Added Room: Name=TopView
+Added Room: Name=U_dacOut
+Added Room: Name=U_dIn
+Added Room: Name=U_link
+Added Room: Name=U_mcu
+Added Room: Name=U_power
+Added Room: Name=U_relayOut

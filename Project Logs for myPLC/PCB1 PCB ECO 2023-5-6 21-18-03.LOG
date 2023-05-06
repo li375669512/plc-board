@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=ISO_DAC_GND Pin=D17-1
+Added Pin To Net: NetName=-DAC_15V Pin=D17-1
+Change Class Name : Old Net Name=AOUT1 New Net Name=subDACOut

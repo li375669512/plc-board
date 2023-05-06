@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=U_mcu Member=R16
+Change Class Name : Old Net Name=subDACOut New Net Name=AOUT1
+Change Room Name: Old Name=subDACOut New Name=AOUT1
+Change Room Scope: Old Scope=InComponentClass('subDACOut') New Scope=InComponentClass('AOUT1')

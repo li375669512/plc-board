@@ -1,0 +1,18 @@
+Added Component: Designator=P14(HDR1X4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P17(HDR1X4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=USART1_RX Pin=P14-1
+Added Pin To Net: NetName=USART1_TX Pin=P14-2
+Added Pin To Net: NetName=GND Pin=P14-3
+Added Pin To Net: NetName=3V3 Pin=P14-4
+Added Pin To Net: NetName=UART5_RX Pin=P17-1
+Added Pin To Net: NetName=UART5_TX Pin=P17-2
+Added Pin To Net: NetName=GND Pin=P17-3
+Added Pin To Net: NetName=3V3 Pin=P17-4
+Added Member To Class: ClassName=U_mcu Member=Component P14 Header 4
+Added Member To Class: ClassName=U_mcu Member=Component P17 Header 4

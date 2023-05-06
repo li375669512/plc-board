@@ -1,0 +1,4 @@
+Change Component Description : Designator=P19 Old Description=XH2.54Ö±½Å×ù×Ó New Description=XH2.54Íä½Å×ù×Ó
+Change component parameters: Designator = "R19" ("R19"); Footprint = "R0603"; UniqueID = "\OXPSUVVG\BITLJJBL" ("\OXPSUVVG\BITLJJBL")
+Change component parameters: Designator = "D27" ("D27"); Footprint = "SMB_L4.6-W3.6-LS5.3-RD"; UniqueID = "\DRCNCYKX\AVRIISZT" ("\DRCNCYKX\AVRIISZT")
+Change component parameters: Designator = "D28" ("D28"); Footprint = "SMB_L4.6-W3.6-LS5.3-RD"; UniqueID = "\DRCNCYKX\ELJFQYJL" ("\DRCNCYKX\ELJFQYJL")
